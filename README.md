@@ -1,2 +1,2 @@
-# Pre-Bootcamp-Private
-This is a part of my pre-bootcamp checklist
+# This is my sample plant shop
+View index.html to view sample
